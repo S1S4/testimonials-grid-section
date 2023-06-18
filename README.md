@@ -20,7 +20,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution Page]()
+- Solution URL: [Solution Page](https://www.frontendmentor.io/solutions/testimonials-section-using-css-grid-2s5QLJ4Fs1)
 - Live Site: [Live Site at Github Pages](https://s1s4.github.io/testimonials-grid-section/)
 
 ## My process
